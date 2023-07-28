@@ -13,7 +13,4 @@ source ./scripts/node_modules.sh
 echo "install vim plugins"
 source ./scripts/vim_plugins.sh
 
-echo "installing vscode plugins"
-source ./scripts/vscode_plugins.sh
-
 brew cleanup

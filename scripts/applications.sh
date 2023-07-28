@@ -7,13 +7,8 @@ applications=(
   visual-studio-code
   intellij-idea-ce
   zoom
-  alacritty
-  1password
-  calibre
-  flycut
-  virtualbox
-  numi
-  balenaetcher
+  xbar
+  rectangle
 )
 
 for i in "${applications[@]}"; do 
